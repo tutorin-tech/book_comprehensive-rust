@@ -7,9 +7,12 @@ crate is simple. Find your `rust_static_library` target, and add a `dep` on the
 Specifically,
 
 ```bob
-                     +------------+      +----------------------+
-"//third_party/rust" | crate name | "/v" | major semver version | ":lib"
-                     +------------+      +----------------------+
+                     +------------+
+"//third_party/rust" | crate name |
+                     +------------+
+     +----------------------+
+"/v" | major semver version | ":lib"
+     +----------------------+
 ```
 
 For instance,
