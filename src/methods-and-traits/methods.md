@@ -67,7 +67,7 @@ There are several common receivers for a method:
 - No receiver: this becomes a static method on the struct. Typically used to
   create constructors which are called `new` by convention.
 
-<details>
+<details open='true'>
 
 Key Points:
 

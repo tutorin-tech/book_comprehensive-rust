@@ -16,7 +16,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Uncomment the `x = 20` to demonstrate that variables are immutable by default.
   Add the `mut` keyword to allow changes.

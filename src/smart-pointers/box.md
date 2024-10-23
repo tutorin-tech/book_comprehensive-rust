@@ -77,7 +77,7 @@ Heap |
 '- - - - - - - - - - - - - - - - - - -'
 ```
 
-<details>
+<details open='true'>
 
 - `Box` is like `std::unique_ptr` in C++, except that it's guaranteed to be not
   null.

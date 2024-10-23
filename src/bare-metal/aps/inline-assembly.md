@@ -11,7 +11,7 @@ power off the system:
 (If you actually want to do this, use the [`smccc`][1] crate which has wrappers
 for all these functions.)
 
-<details>
+<details open='true'>
 
 - PSCI is the Arm Power State Coordination Interface, a standard set of
   functions to manage system and CPU power states, among other things. It is

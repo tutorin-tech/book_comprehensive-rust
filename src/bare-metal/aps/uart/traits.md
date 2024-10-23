@@ -7,7 +7,7 @@ too.
 {{#include ../examples/src/pl011_minimal.rs:Traits}}
 ```
 
-<details>
+<details open='true'>
 
 - Implementing `Write` lets us use the `write!` and `writeln!` macros with our
   `Uart` type.

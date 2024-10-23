@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Note that the requirement is that conflicting references not _exist_ at the
   same point. It does not matter where the reference is dereferenced.

@@ -27,7 +27,7 @@ We will briefly cover unsafe capabilities next. For full details, please see
 [Chapter 19.1 in the Rust Book](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html)
 and the [Rustonomicon](https://doc.rust-lang.org/nomicon/).
 
-<details>
+<details open='true'>
 
 Unsafe Rust does not mean the code is incorrect. It means that developers have
 turned off some compiler safety features and have to write correct code by

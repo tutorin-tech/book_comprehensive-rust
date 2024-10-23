@@ -19,7 +19,7 @@ pub fn main(arg0: u64, arg1: u64, arg2: u64, arg3: u64) {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `main!` macro marks your main function, to be called from the `vmbase`
   entry point.

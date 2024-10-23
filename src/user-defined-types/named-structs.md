@@ -33,7 +33,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Key Points:
 

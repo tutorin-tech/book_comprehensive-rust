@@ -14,7 +14,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - A value of the array type `[T; N]` holds `N` (a compile-time constant)
   elements of the same type `T`. Note that the length of the array is _part of

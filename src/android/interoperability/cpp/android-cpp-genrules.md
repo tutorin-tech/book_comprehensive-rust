@@ -24,7 +24,7 @@ genrule {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `cxxbridge` tool is a standalone tool that generates the C++ side of the
   bridge module. It is included in Android and available as a Soong tool.

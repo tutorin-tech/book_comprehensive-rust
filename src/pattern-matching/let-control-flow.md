@@ -83,7 +83,7 @@ Here
 returns `Some(c)` until the string is empty, after which it will return `None`.
 The `while let` lets us keep iterating through all items.
 
-<details>
+<details open='true'>
 
 ## if-let
 

@@ -17,7 +17,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 This functionality uses the `IntoIterator` trait, but we haven't covered that
 yet.

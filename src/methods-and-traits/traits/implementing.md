@@ -26,7 +26,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - To implement `Trait` for `Type`, you use an `impl Trait for Type { .. }`
   block.

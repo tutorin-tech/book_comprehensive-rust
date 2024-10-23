@@ -30,7 +30,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - As with `Option`, the successful value sits inside of `Result`, forcing the
   developer to explicitly extract it. This encourages error checking. In the

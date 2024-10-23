@@ -91,7 +91,7 @@ Memory layout after allocating `pets`:
  '- - - - - - - - - - - - - - - - - - - - - '
 ```
 
-<details>
+<details open='true'>
 
 - Types that implement a given trait may be of different sizes. This makes it
   impossible to have things like `Vec<dyn Pet>` in the example above.

@@ -4,7 +4,7 @@
 {{#include ../../../../third_party/cxx/book/snippets.rs:shared_types}}
 ```
 
-<details>
+<details open='true'>
 
 - Only C-like (unit) enums are supported.
 - A limited number of traits are supported for `#[derive()]` on shared types.

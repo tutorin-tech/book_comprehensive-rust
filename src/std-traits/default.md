@@ -36,7 +36,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - It can be implemented directly or it can be derived via `#[derive(Default)]`.
 - A derived implementation will produce a value where all fields are set to

@@ -14,7 +14,7 @@ See the [CXX tutorial][1] for a full example of using this.
 [1]: https://cxx.rs/tutorial.html
 [2]: https://cxx.rs/bindings.html
 
-<details>
+<details open='true'>
 
 Talk through the diagram. Explain that behind the scenes, this is doing just the
 same as you previously did. Point out that automating the process has the

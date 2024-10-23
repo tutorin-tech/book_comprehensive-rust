@@ -57,7 +57,7 @@
 </tr>
 </table>
 
-<details>
+<details open='true'>
 
 - `HashMap` depends on RNG.
 - `std` re-exports the contents of both `core` and `alloc`.

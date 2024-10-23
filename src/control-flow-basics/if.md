@@ -32,7 +32,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Because `if` is an expression and must have a particular type, both of its
 branch blocks must have the same type. Show what happens if you add `;` after

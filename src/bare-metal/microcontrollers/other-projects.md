@@ -16,7 +16,7 @@
 Some platforms have `std` implementations, e.g.
 [esp-idf](https://esp-rs.github.io/book/overview/using-the-standard-library.html).
 
-<details>
+<details open='true'>
 
 - RTIC can be considered either an RTOS or a concurrency framework.
   - It doesn't include any HALs.

@@ -39,7 +39,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Newtypes are a great way to encode additional information about the value in a
   primitive type, for example:

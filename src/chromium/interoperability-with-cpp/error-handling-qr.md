@@ -18,7 +18,7 @@ mod ffi {
 }
 ```
 
-<details>
+<details open='true'>
 
 Students may be curious about the semantics of the `out_qr_size` output. This is
 not the size of the vector, but the size of the QR code (and admittedly it is a

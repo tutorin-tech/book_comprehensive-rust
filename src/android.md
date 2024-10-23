@@ -14,7 +14,7 @@ code as needed).
 > Rust. The fewer dependencies and "exotic" types the better. Something that
 > parses some raw bytes would be ideal.
 
-<details>
+<details open='true'>
 
 The speaker may mention any of the following given the increased use of Rust in
 Android:

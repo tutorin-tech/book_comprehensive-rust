@@ -37,7 +37,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The program here is safe because it is single-threaded. However, the Rust
   compiler is conservative and will assume the worst. Try removing the `unsafe`

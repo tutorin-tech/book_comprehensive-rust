@@ -8,7 +8,7 @@ We can use a struct to represent the memory layout of the UART's registers.
 {{#include ../examples/src/pl011.rs:Registers}}
 ```
 
-<details>
+<details open='true'>
 
 - [`#[repr(C)]`](https://doc.rust-lang.org/reference/type-layout.html#the-c-representation)
   tells the compiler to lay the struct fields out in order, following the same

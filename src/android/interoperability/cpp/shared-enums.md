@@ -16,7 +16,7 @@ Generated C++:
 {{#include ../../../../third_party/cxx/book/snippets.cc:shared_enums_cpp}}
 ```
 
-<details>
+<details open='true'>
 
 - On the Rust side, the code generated for shared enums is actually a struct
   wrapping a numeric value. This is because it is not UB in C++ for an enum

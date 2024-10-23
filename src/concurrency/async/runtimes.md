@@ -19,7 +19,7 @@ Several larger applications have their own runtimes. For example,
 [Fuchsia](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/src/lib/fuchsia-async/src/lib.rs)
 already has one.
 
-<details>
+<details open='true'>
 
 - Note that of the listed runtimes, only Tokio is supported in the Rust
   playground. The playground also does not permit any I/O, so most interesting

@@ -23,7 +23,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Rust infers a type for T based on the types of the arguments and return value.
 

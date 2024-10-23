@@ -27,7 +27,7 @@ mod ffi {
 }
 ```
 
-<details>
+<details open='true'>
 
 `PngReader` and `ResultOfPngReader` are Rust types --- objects of these types
 cannot cross the FFI boundary without indirection of a `Box<T>`. We can't have

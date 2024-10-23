@@ -41,7 +41,7 @@ impl BlobstoreClient {
 // ...
 ```
 
-<details>
+<details open='true'>
 
 - The programmer does not need to promise that the signatures they have typed in
   are accurate. CXX performs static assertions that the signatures exactly

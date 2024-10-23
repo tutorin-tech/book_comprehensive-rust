@@ -6,7 +6,7 @@ Before we can start running Rust code, we need to do some initialisation.
 {{#include examples/entry.S:entry}}
 ```
 
-<details>
+<details open='true'>
 
 - This is the same as it would be for C: initialising the processor state,
   zeroing the BSS, and setting up the stack pointer.

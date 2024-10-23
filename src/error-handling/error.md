@@ -29,7 +29,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 The `read_count` function can return `std::io::Error` (from file operations) or
 `std::num::ParseIntError` (from `String::parse`).

@@ -9,7 +9,7 @@ for convenience.
 {{#include examples/src/bin/board_support.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - In this case the board support crate is just providing more useful names, and
   a bit of initialisation.

@@ -98,7 +98,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Mention that this is the opposite of the defaults in C++, which copies by
   value unless you use `std::move` (and the move constructor is defined!).

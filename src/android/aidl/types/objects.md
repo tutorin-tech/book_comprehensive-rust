@@ -31,7 +31,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Note the usage of `BnBirthdayInfoProvider`. This serves the same purpose as
   `BnBirthdayService` that we saw previously.

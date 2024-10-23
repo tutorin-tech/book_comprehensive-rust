@@ -15,7 +15,7 @@ cc_library_static {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Point out that `libcxx_test_bridge_header` and `libcxx_test_bridge_code` are
   the dependencies for the CXX-generated C++ bindings. We'll show how these are

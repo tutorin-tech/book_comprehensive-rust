@@ -68,7 +68,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - You may recognize this as an example of the actor pattern. Actors typically
   call `select!` in a loop.

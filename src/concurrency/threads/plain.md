@@ -31,7 +31,7 @@ fn main() {
   - Panics can carry a payload, which can be unpacked with
     [`Any::downcast_ref`].
 
-<details>
+<details open='true'>
 
 - Run the example.
   - 5ms timing is loose enough that main and spawned threads stay mostly in

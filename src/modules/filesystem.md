@@ -41,7 +41,7 @@ pub fn harvest(garden: &mut Garden) {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Before Rust 2018, modules needed to be located at `module/mod.rs` instead of
   `module.rs`, and this is still a working alternative for editions after 2018.

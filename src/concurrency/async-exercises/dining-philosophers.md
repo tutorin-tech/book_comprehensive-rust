@@ -54,7 +54,7 @@ tokio = { version = "1.26.0", features = ["sync", "time", "macros", "rt-multi-th
 Also note that this time you have to use the `Mutex` and the `mpsc` module from
 the `tokio` crate.
 
-<details>
+<details open='true'>
 
 - Can you make your implementation single-threaded?
 

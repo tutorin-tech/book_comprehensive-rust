@@ -38,7 +38,7 @@ On MacOS:
 arm-none-eabi-gdb target/thumbv7em-none-eabihf/debug/board_support --eval-command="target remote :1337"
 ```
 
-<details>
+<details open='true'>
 
 In GDB, try running:
 

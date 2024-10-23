@@ -20,7 +20,7 @@ can also implement them manually when you know it is valid.
 [2]: https://doc.rust-lang.org/std/marker/trait.Sync.html
 [3]: ../../unsafe-rust/unsafe-traits.md
 
-<details>
+<details open='true'>
 
 - One can think of these traits as markers that the type has certain
   thread-safety properties.

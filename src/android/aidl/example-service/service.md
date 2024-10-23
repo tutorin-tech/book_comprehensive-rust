@@ -18,7 +18,7 @@ _birthday_service/Android.bp_:
 {{#include ../birthday_service/Android.bp:libbirthdayservice}}
 ```
 
-<details>
+<details open='true'>
 
 - Point out the path to the generated `IBirthdayService` trait, and explain why
   each of the segments is necessary.

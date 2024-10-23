@@ -34,7 +34,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Change the channel size to `3` and see how it affects the execution.
 

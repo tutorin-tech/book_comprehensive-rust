@@ -19,7 +19,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Run the code sample and examine the error message. There are also lints visible
 here, but those will not be shown once the code compiles. Switch to the

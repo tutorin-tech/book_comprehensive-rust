@@ -38,7 +38,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Use the `pub` keyword to make modules public.
 

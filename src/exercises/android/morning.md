@@ -7,7 +7,7 @@ try to integrate some Rust into it. Some suggestions:
 
 - Move a function from your project to Rust and call it.
 
-<details>
+<details open='true'>
 
 No solution is provided here since this is open-ended: it relies on someone in
 the class having a piece of code which you can turn in to Rust on the fly.
