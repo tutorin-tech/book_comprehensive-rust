@@ -27,6 +27,13 @@ optional = true
 pot-file = "messages.pot"
 granularity = 0
 
+[output.epub]
+additional-resources = [
+  "./android/interoperability/cpp/overview.svg",
+  "./chromium/build-rules/vscode.png",
+  "./exercises/chromium/chwomium.png",
+]
+
 [output.pandoc]
 optional = true
 disabled = true
