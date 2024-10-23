@@ -7,7 +7,7 @@ We can do this by implementing the `Log` trait.
 {{#include examples/src/logger.rs:main}}
 ```
 
-<details>
+<details open='true'>
 
 - The unwrap in `log` is safe because we initialise `LOGGER` before calling
   `set_logger`.

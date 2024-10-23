@@ -21,7 +21,7 @@ them are bit fields which would be nice to access in a structured way.
 | 0x44   | ICR           | 11    |
 | 0x48   | DMACR         | 3     |
 
-<details>
+<details open='true'>
 
 - There are also some ID registers which have been omitted for brevity.
 

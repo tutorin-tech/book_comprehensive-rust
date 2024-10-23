@@ -10,7 +10,7 @@ signature:
 | `out`/`inout` argument | `&mut Vec<T>` |
 | Return                 | `Vec<T>`      |
 
-<details>
+<details open='true'>
 
 - In Android 13 or higher, fixed-size arrays are supported, i.e. `T[N]` becomes
   `[T; N]`. Fixed-size arrays can have multiple dimensions (e.g. `int[3][4]`).

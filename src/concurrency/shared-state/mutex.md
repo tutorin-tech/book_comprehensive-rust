@@ -31,7 +31,7 @@ implementation.
 [2]: https://doc.rust-lang.org/std/sync/struct.Mutex.html#impl-Sync-for-Mutex%3CT%3E
 [3]: https://doc.rust-lang.org/std/sync/struct.Arc.html
 
-<details>
+<details open='true'>
 
 - `Mutex` in Rust looks like a collection with just one element --- the
   protected data.

@@ -65,7 +65,7 @@ What remains for you is to implement the `parse_field` function and the
 {{#include exercise.rs:main }}
 ```
 
-<details>
+<details open='true'>
 
 - In this exercise there are various cases where protobuf parsing might fail,
   e.g. if you try to parse an `i32` when there are fewer than 4 bytes left in

@@ -33,7 +33,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 An `Fn` (e.g. `add_3`) neither consumes nor mutates captured values. It can be
 called needing only a shared reference to the closure, which means the closure

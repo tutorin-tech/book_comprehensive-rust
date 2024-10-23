@@ -39,7 +39,7 @@ let msg = service.wishHappyBirthday(
 )?;
 ```
 
-<details>
+<details open='true'>
 
 - TODO: Move code snippets into project files where they'll actually be built?
 

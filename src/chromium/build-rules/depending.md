@@ -16,7 +16,7 @@ component("preexisting_cpp") {
 }
 ```
 
-<details>
+<details open='true'>
 We'll see that this relationship only works if the Rust code exposes plain C APIs
 which can be called from C++, or if we use a C++/Rust interop tool.
 </details>

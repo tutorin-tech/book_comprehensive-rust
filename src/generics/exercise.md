@@ -15,7 +15,7 @@ use std::cmp::Ordering;
 {{#include exercise.rs:main}}
 ```
 
-<details>
+<details open='true'>
 
 - Show students the [`Ord`] trait and [`Ordering`] enum.
 

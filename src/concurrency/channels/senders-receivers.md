@@ -25,7 +25,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - [`mpsc`] stands for Multi-Producer, Single-Consumer. `Sender` and `SyncSender`
   implement `Clone` (so you can make multiple producers) but `Receiver` does

@@ -30,7 +30,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `From` trait will be covered later in the course, but its
   [definition in the `std` docs](https://doc.rust-lang.org/std/convert/trait.From.html)

@@ -24,7 +24,7 @@ Paths are resolved as follows:
    - `crate::foo` refers to `foo` in the root of the current crate,
    - `bar::foo` refers to `foo` in the `bar` crate.
 
-<details>
+<details open='true'>
 
 - It is common to "re-export" symbols at a shorter path. For example, the
   top-level `lib.rs` in a crate might have

@@ -46,7 +46,7 @@ mod tests {
 - This lets you unit test private helpers.
 - The `#[cfg(test)]` attribute is only active when you run `cargo test`.
 
-<details>
+<details open='true'>
 
 Run the tests in the playground in order to show their results.
 

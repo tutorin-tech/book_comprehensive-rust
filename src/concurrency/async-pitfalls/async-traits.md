@@ -64,7 +64,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `async_trait` is easy to use, but note that it's using heap allocations to
   achieve this. This heap allocation has performance overhead.

@@ -12,7 +12,7 @@ to allocate MMIO space for PCI BARs:
 {{#include allocator-example/src/main.rs:main}}
 ```
 
-<details>
+<details open='true'>
 
 - PCI BARs always have alignment equal to their size.
 - Run the example with `cargo run` under

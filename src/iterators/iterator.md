@@ -33,7 +33,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `Iterator` trait implements many common functional programming operations
   over collections (e.g. `map`, `filter`, `reduce`, etc). This is the trait

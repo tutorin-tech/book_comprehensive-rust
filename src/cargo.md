@@ -20,7 +20,7 @@ auto-completion and jump-to-definition functionality for [VS Code], [Emacs],
 [Vim/Neovim], and many others. There is also a different IDE available called
 [RustRover].
 
-<details>
+<details open='true'>
 
 - On Debian/Ubuntu, you can also install Cargo, the Rust source and the
   [Rust formatter] via `apt`. However, this gets you an outdated Rust version

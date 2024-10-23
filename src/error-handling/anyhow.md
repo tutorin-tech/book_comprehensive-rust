@@ -45,7 +45,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `anyhow::Error` is essentially a wrapper around `Box<dyn Error>`. As such it's
   again generally not a good choice for the public API of a library, but is

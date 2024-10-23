@@ -12,7 +12,7 @@ M microcontrollers.
 Next we'll look at how to access peripherals, with increasing levels of
 abstraction.
 
-<details>
+<details open='true'>
 
 - The `cortex_m_rt::entry` macro requires that the function have type
   `fn() -> !`, because returning to the reset handler doesn't make sense.

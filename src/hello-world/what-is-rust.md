@@ -19,7 +19,7 @@ Rust is a new programming language which had its [1.0 release in 2015][1]:
   - desktops,
   - servers.
 
-<details>
+<details open='true'>
 
 Rust fits in the same area as C++:
 

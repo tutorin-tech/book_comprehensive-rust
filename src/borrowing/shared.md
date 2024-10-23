@@ -28,7 +28,7 @@ fn main() {
 - The `add` function _borrows_ two points and returns a new point.
 - The caller retains ownership of the inputs.
 
-<details>
+<details open='true'>
 
 This slide is a review of the material on references from day 1, expanding
 slightly to include function arguments and return values.

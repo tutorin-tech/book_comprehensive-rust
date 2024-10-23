@@ -30,7 +30,7 @@ should have created Chrome for pixies!
 
 <img src="chwomium.png" alt="Chromium UI screenshot with uwu language">
 
-<details>
+<details open='true'>
 Students will likely need some hints here. Hints include:
 
 - UTF16 vs UTF8. Students should be aware that Rust strings are always UTF8, and

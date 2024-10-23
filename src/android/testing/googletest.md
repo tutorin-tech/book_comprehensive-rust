@@ -29,7 +29,7 @@ Actual: ["foo", "bar", "baz"],
 Error: See failure output above
 ```
 
-<details>
+<details open='true'>
 
 - GoogleTest is not part of the Rust Playground, so you need to run this example
   in a local environment. Use `cargo add googletest` to quickly add it to an

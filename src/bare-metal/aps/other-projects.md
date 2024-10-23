@@ -12,7 +12,7 @@
 - [`cargo-call-stack`](https://crates.io/crates/cargo-call-stack)
   - Static analysis to determine maximum stack usage.
 
-<details>
+<details open='true'>
 
 - The RaspberryPi OS tutorial runs Rust code before the MMU and caches are
   enabled. This will read and write memory (e.g. the stack). However:

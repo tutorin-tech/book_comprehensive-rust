@@ -31,7 +31,7 @@ from `tokio::spawn` implements `Future` to allow joining to it.
 The `.await` keyword, applied to a Future, causes the current async function to
 pause until that Future is ready, and then evaluates to its output.
 
-<details>
+<details open='true'>
 
 - The `Future` and `Poll` types are implemented exactly as shown; click the
   links to show the implementations in the docs.

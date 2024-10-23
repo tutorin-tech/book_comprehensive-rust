@@ -37,7 +37,7 @@ subsequent exercises. If you've succeeded, you will be able to use right-click
 - Information about gn's [`--export-rust-project`][3] switch
 - [How to install rust-analyzer in VSCode][4]
 
-<details>
+<details open='true'>
 It's really important that students get this running, because future exercises
 will build on it.
 

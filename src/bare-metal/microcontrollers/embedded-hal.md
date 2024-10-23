@@ -14,7 +14,7 @@ into [`embedded-io`], [`embedded-can`] and [`rand_core`] respectively.
 Other crates then implement [drivers] in terms of these traits, e.g. an
 accelerometer driver might need an I2C or SPI device instance.
 
-<details>
+<details open='true'>
 
 - The traits cover using the peripherals but not initialising or configuring
   them, as initialisation and configuration is usually highly platform-specific.

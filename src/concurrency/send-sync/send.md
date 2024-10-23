@@ -12,7 +12,7 @@ and deallocate it in another.
 
 [1]: https://doc.rust-lang.org/std/marker/trait.Send.html
 
-<details>
+<details open='true'>
 
 As an example, a connection to the SQLite library must only be accessed from a
 single thread.

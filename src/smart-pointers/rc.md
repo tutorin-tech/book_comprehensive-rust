@@ -28,7 +28,7 @@ fn main() {
 [3]: https://doc.rust-lang.org/std/sync/struct.Mutex.html
 [4]: https://doc.rust-lang.org/std/rc/struct.Weak.html
 
-<details>
+<details open='true'>
 
 - `Rc`'s count ensures that its contained value is valid for as long as there
   are references.

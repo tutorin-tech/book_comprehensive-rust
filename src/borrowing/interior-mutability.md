@@ -62,7 +62,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 The main thing to take away from this slide is that Rust provides _safe_ ways to
 modify data behind a shared reference. There are a variety of ways to ensure

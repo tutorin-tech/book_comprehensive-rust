@@ -32,7 +32,7 @@ pub unsafe trait AsBytes {
 unsafe impl AsBytes for u32 {}
 ```
 
-<details>
+<details open='true'>
 
 There should be a `# Safety` section on the Rustdoc for the trait explaining the
 requirements for the trait to be safely implemented.

@@ -2,7 +2,7 @@
 
 {{%segment outline}}
 
-<details>
+<details open='true'>
 
 As with the standard-library types, spend time reviewing the documentation for
 each trait.

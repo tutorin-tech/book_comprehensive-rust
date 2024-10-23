@@ -30,7 +30,7 @@ Build, push, and run the client on your device:
 Happy Birthday Charlie, congratulations with the 60 years!
 ```
 
-<details>
+<details open='true'>
 
 - `Strong<dyn IBirthdayService>` is the trait object representing the service
   that the client has connected to.

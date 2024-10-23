@@ -17,7 +17,7 @@ can rely on the compiler to ensure correctness at runtime.
 
 {{%session outline}}
 
-<details>
+<details open='true'>
 
 - Rust lets us access OS concurrency toolkit: threads, sync. primitives, etc.
 - The type system gives us safety for concurrency without any special features.

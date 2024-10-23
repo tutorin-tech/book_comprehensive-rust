@@ -20,7 +20,7 @@ This is the first day of Rust Fundamentals. We will cover a lot of ground today:
 
 {{%session outline}}
 
-<details>
+<details open='true'>
 
 Please remind the students that:
 

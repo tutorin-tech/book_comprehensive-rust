@@ -20,7 +20,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Labeled break also works on arbitrary blocks, e.g.
   ```rust

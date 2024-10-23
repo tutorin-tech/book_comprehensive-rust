@@ -21,7 +21,7 @@ trait IBirthdayService {
 Your service will need to implement this trait, and your client will use this
 trait to talk to the service.
 
-<details>
+<details open='true'>
 
 - The generated bindings can be found at
   `out/soong/.intermediates/<path to module>/`.

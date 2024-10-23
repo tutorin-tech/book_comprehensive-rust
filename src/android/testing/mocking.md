@@ -13,7 +13,7 @@ to use traits, which you can then quickly mock:
 
 [Mockall]: https://docs.rs/mockall/
 
-<details>
+<details open='true'>
 
 - Mockall is the recommended mocking library in Android (AOSP). There are other
   [mocking libraries available on crates.io](https://crates.io/keywords/mock),

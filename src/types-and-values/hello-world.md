@@ -21,7 +21,7 @@ What you see:
 - Rust has hygienic macros, `println!` is an example of this.
 - Rust strings are UTF-8 encoded and can contain any Unicode character.
 
-<details>
+<details open='true'>
 
 This slide tries to make the students comfortable with Rust code. They will see
 a ton of it over the next four days so we start small with something familiar.

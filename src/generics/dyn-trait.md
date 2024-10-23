@@ -54,7 +54,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Generics, including `impl Trait`, use monomorphization to create a specialized
   instance of the function for each different type that the generic is
