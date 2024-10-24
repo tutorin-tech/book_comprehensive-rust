@@ -27,7 +27,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - With the `tokio::main` macro we can now make `main` async.
 

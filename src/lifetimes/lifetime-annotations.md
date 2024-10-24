@@ -42,7 +42,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 In this example, the compiler does not know what lifetime to infer for `p3`.
 Looking inside the function body shows that it can only safely assume that

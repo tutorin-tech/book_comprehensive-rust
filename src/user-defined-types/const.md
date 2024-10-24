@@ -28,7 +28,7 @@ According to the [Rust RFC Book][1] these are inlined upon use.
 Only functions marked `const` can be called at compile time to generate `const`
 values. `const` functions can however be called at runtime.
 
-<details>
+<details open='true'>
 
 - Mention that `const` behaves semantically similar to C++'s `constexpr`
 - It isn't super common that one would need a runtime evaluated constant, but it

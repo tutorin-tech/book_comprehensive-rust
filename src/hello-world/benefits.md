@@ -32,7 +32,7 @@ Some unique selling points of Rust:
   - Built-in support for testing.
   - Excellent Language Server Protocol support.
 
-<details>
+<details open='true'>
 
 Do not spend much time here. All of these points will be covered in more depth
 later.

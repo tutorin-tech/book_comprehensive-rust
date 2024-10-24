@@ -17,7 +17,7 @@ _birthday_service/aidl/Android.bp_:
 {{#include ../birthday_service/aidl/Android.bp}}
 ```
 
-<details>
+<details open='true'>
 
 - Note that the directory structure under the `aidl/` directory needs to match
   the package name used in the AIDL file, i.e. the package is

@@ -7,7 +7,7 @@ echo incoming bytes.
 {{#include ../examples/src/main_improved.rs:main}}
 ```
 
-<details>
+<details open='true'>
 
 - As in the [inline assembly](../inline-assembly.md) example, this `main`
   function is called from our entry point code in `entry.S`. See the speaker

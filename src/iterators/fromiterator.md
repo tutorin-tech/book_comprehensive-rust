@@ -14,7 +14,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 `Iterator` implements
 

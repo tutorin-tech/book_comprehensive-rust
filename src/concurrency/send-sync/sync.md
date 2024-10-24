@@ -13,7 +13,7 @@ More precisely, the definition is:
 
 [1]: https://doc.rust-lang.org/std/marker/trait.Sync.html
 
-<details>
+<details open='true'>
 
 This statement is essentially a shorthand way of saying that if a type is
 thread-safe for shared use, it is also thread-safe to pass references of it

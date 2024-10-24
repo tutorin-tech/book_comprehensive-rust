@@ -18,7 +18,7 @@ The "major semver version" is a [Rust "semver" version number][0].
 
 Take a close look, especially at the things generated in `third_party/rust`.
 
-<details>
+<details open='true'>
 
 Talk a little about semver --- and specifically the way that in Chromium it's to
 allow multiple incompatible versions of a crate, which is discouraged but

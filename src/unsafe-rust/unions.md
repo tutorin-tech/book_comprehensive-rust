@@ -20,7 +20,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Unions are very rarely needed in Rust as you can usually use an enum. They are
 occasionally needed for interacting with C library APIs.

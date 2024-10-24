@@ -6,7 +6,7 @@ Now let's use the new `Registers` struct in our driver.
 {{#include ../examples/src/pl011.rs:Uart}}
 ```
 
-<details>
+<details open='true'>
 
 - Note the use of `addr_of!` / `addr_of_mut!` to get pointers to individual
   fields without creating an intermediate reference, which would be unsound.

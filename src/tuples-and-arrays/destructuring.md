@@ -26,7 +26,7 @@ fn print_tuple(tuple: (i32, i32)) {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The patterns used here are "irrefutable", meaning that the compiler can
   statically verify that the value on the right of `=` has the same structure as

@@ -23,7 +23,7 @@ idmap.map_range(
 idmap.activate();
 ```
 
-<details>
+<details open='true'>
 
 - For now it only supports EL1, but support for other exception levels should be
   straightforward to add.

@@ -33,7 +33,7 @@ Here's the single-module implementation of the GUI library:
 {{#include exercise.rs:single-module}}
 ```
 
-<details>
+<details open='true'>
 
 Encourage students to divide the code in a way that feels natural for them, and
 get accustomed to the required `mod`, `use`, and `pub` declarations. Afterward,

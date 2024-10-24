@@ -22,7 +22,7 @@ The types have widths as follows:
 - `char` is 32 bits wide,
 - `bool` is 8 bits wide.
 
-<details>
+<details open='true'>
 
 There are a few syntaxes which are not shown above:
 

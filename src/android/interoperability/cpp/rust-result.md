@@ -4,7 +4,7 @@
 {{#include ../../../../third_party/cxx/book/snippets.rs:rust_result}}
 ```
 
-<details>
+<details open='true'>
 
 - Rust functions that return `Result` are translated to exceptions on the C++
   side.

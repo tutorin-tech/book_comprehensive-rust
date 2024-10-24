@@ -14,7 +14,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 This is the first time we've seen a function other than `main`, but the meaning
 should be clear: it takes three integers, and returns an integer. Functions will

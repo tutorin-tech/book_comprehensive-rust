@@ -14,7 +14,7 @@ fn panic(_panic: &PanicInfo) -> ! {
 }
 ```
 
-<details>
+<details open='true'>
 
 - This will compile to an empty binary.
 - `std` provides a panic handler; without it we must provide our own.

@@ -35,7 +35,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `listener` async block here is a common form: wait for some async event,
   or for a timeout. Change the `sleep` to sleep longer to see it fail. Why does

@@ -7,7 +7,7 @@ modules inside `.rs` source code.
 {{#include ../../../third_party/cxx/book/snippets.rs:cxx_overview}}
 ```
 
-<details>
+<details open='true'>
 
 Point out:
 

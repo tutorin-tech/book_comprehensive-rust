@@ -21,7 +21,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Show that a variable's scope is limited by adding a `b` in the inner block in
   the last example, and then trying to access it outside that block.

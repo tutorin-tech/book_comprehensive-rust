@@ -55,7 +55,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Click through to the docs for `IntoIterator`. Every implementation of
 `IntoIterator` must declare two types:

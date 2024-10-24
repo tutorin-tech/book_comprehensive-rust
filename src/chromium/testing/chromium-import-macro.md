@@ -26,7 +26,7 @@ use my_rust_lib::my_function_under_test;
 More information can be found in [the doc comment][0] of the `chromium::import`
 macro.
 
-<details>
+<details open='true'>
 
 `rust_static_library` supports specifying an explicit name via `crate_name`
 property, but doing this is discouraged. And it is discouraged because the crate

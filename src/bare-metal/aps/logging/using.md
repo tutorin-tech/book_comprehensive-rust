@@ -6,7 +6,7 @@ We need to initialise the logger before we use it.
 {{#include ../examples/src/main_logger.rs:main}}
 ```
 
-<details>
+<details open='true'>
 
 - Note that our panic handler can now log details of panics.
 - Run the example in QEMU with `make qemu_logger` under

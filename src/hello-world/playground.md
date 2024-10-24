@@ -19,7 +19,7 @@ few handy features:
 - If you're interested, use "ASM" under "..." to see the generated assembly
   code.
 
-<details>
+<details open='true'>
 
 As students head into the break, encourage them to open up the playground and
 experiment a little. Encourage them to keep the tab open and try things out

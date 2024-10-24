@@ -16,7 +16,7 @@ The Rust ecosystem consists of a number of tools, of which the main ones are:
   library. You can have multiple versions of Rust installed at once and `rustup`
   will let you switch between them as needed.
 
-<details>
+<details open='true'>
 
 Key points:
 

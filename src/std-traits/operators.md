@@ -28,7 +28,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Discussion points:
 

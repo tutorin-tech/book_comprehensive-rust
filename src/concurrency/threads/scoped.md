@@ -42,7 +42,7 @@ fn main() {
 
 [1]: https://doc.rust-lang.org/std/thread/fn.scope.html
 
-<details>
+<details open='true'>
 
 - The reason for that is that when the `thread::scope` function completes, all
   the threads are guaranteed to be joined, so they can return borrowed data.

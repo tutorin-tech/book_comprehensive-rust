@@ -31,7 +31,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `&str` introduces a string slice, which is an immutable reference to UTF-8
   encoded string data stored in a block of memory. String literals (`"Hello"`),

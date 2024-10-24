@@ -28,7 +28,7 @@ fn main() {
 
 [1]: https://doc.rust-lang.org/std/sync/struct.Arc.html
 
-<details>
+<details open='true'>
 
 - `Arc` stands for "Atomic Reference Counted", a thread safe version of `Rc`
   that uses atomic operations.

@@ -28,7 +28,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Note that `loop` is the only looping construct which can return a non-trivial
 value. This is because it's guaranteed to only return at a `break` statement

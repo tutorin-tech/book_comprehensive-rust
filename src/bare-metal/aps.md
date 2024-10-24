@@ -9,7 +9,7 @@ let's try writing something for Cortex-A. For simplicity we'll just work with
 QEMU's aarch64
 ['virt'](https://qemu-project.gitlab.io/qemu/system/arm/virt.html) board.
 
-<details>
+<details open='true'>
 
 - Broadly speaking, microcontrollers don't have an MMU or multiple levels of
   privilege (exception levels on Arm CPUs, rings on x86), while application

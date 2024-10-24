@@ -22,7 +22,7 @@ C++ headers will be generated at a sensible location, so you can just
 You will find some utility functions in `//base` to convert to/from Chromium C++
 types to CXX Rust types --- for example [`SpanToRustSlice`][0].
 
-<details>
+<details open='true'>
 
 Students may ask --- why do we still need `allow_unsafe = true`?
 

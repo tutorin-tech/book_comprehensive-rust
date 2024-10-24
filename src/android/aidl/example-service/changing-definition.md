@@ -26,7 +26,7 @@ trait IBirthdayService {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Note how the `String[]` in the AIDL definition is translated as a `&[String]`
   in Rust, i.e. that idiomatic Rust types are used in the generated bindings

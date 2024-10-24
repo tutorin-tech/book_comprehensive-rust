@@ -21,7 +21,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `Option` is widely used, not just in the standard library.
 - `unwrap` will return the value in an `Option`, or panic. `expect` is similar

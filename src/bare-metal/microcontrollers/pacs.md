@@ -8,7 +8,7 @@ wrappers for memory-mapped peripherals from
 {{#include examples/src/bin/pac.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - SVD (System View Description) files are XML files typically provided by
   silicon vendors which describe the memory map of the device.

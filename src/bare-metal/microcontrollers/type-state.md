@@ -4,7 +4,7 @@
 {{#include examples/src/bin/typestate.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - Pins don't implement `Copy` or `Clone`, so only one instance of each can
   exist. Once a pin is moved out of the port struct nobody else can take it.

@@ -8,7 +8,7 @@ a Rust module annotated with the `#[cxx::bridge]` attribute macro.
 {{#include ../../../../third_party/cxx/blobstore/src/main.rs:bridge}}
 ```
 
-<details>
+<details open='true'>
 
 - The bridge is generally declared in an `ffi` module within your crate.
 - From the declarations made in the bridge module, CXX will generate matching

@@ -16,7 +16,7 @@ trait Pet {
 }
 ```
 
-<details>
+<details open='true'>
 
 - A trait defines a number of methods that types must have in order to implement
   the trait.

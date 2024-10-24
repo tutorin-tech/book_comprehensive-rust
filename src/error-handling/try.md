@@ -49,7 +49,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Simplify the `read_username` function to use `?`.
 

@@ -9,7 +9,7 @@ generally implement traits from
 {{#include examples/src/bin/hal.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - `set_low` and `set_high` are methods on the `embedded_hal` `OutputPin` trait.
 - HAL crates exist for many Cortex-M and RISC-V devices, including various

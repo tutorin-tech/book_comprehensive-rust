@@ -9,7 +9,7 @@
 [`pointer::write_volatile`]: https://doc.rust-lang.org/stable/core/primitive.pointer.html#method.write_volatile
 [`addr_of!`]: https://doc.rust-lang.org/stable/core/ptr/macro.addr_of.html
 
-<details>
+<details open='true'>
 
 - Volatile access: read or write operations may have side-effects, so prevent
   the compiler or hardware from reordering, duplicating or eliding them.

@@ -31,7 +31,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - _Q:_ Why `T` is specified twice in `impl<T> Point<T> {}`? Isn't that
   redundant?

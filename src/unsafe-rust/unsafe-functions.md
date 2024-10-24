@@ -74,7 +74,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 ## Calling Unsafe Functions
 

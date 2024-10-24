@@ -11,7 +11,7 @@
 | `Vec<T>`          | `rust::Vec<T>`       |
 | `CxxVector<T>`    | `std::vector<T>`     |
 
-<details>
+<details open='true'>
 
 - These types can be used in the fields of shared structs and the arguments and
   returns of extern functions.

@@ -34,7 +34,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Note that `std::mem::drop` is not the same as `std::ops::Drop::drop`.
 - Values are automatically dropped when they go out of scope.

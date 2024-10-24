@@ -12,7 +12,7 @@ calling into Rust code:
 {{#include examples/src/exceptions.rs:exceptions}}
 ```
 
-<details>
+<details open='true'>
 
 - EL is exception level; all our examples this afternoon run in EL1.
 - For simplicity we aren't distinguishing between SP0 and SPx for the current EL

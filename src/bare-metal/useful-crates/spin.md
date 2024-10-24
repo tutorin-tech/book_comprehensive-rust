@@ -21,7 +21,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Be careful to avoid deadlock if you take locks in interrupt handlers.
 - `spin` also has a ticket lock mutex implementation; equivalents of `RwLock`,

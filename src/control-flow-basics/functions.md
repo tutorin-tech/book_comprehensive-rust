@@ -20,7 +20,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Declaration parameters are followed by a type (the reverse of some programming
   languages), then a return type.

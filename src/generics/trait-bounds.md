@@ -23,7 +23,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Try making a `NonClonable` and passing it to `duplicate`.
 

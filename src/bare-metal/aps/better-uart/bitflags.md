@@ -7,7 +7,7 @@ with bitflags.
 {{#include ../examples/src/pl011.rs:Flags}}
 ```
 
-<details>
+<details open='true'>
 
 - The `bitflags!` macro creates a newtype something like `Flags(u16)`, along
   with a bunch of method implementations to get and set flags.

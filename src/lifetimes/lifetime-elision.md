@@ -44,7 +44,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 In this example, `cab_distance` is trivially elided.
 

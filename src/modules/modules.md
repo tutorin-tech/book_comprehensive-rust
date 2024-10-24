@@ -27,7 +27,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Packages provide functionality and include a `Cargo.toml` file that describes
   how to build a bundle of 1+ crates.

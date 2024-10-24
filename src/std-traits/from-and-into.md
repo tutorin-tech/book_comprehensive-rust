@@ -29,7 +29,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - That's why it is common to only implement `From`, as your type will get `Into`
   implementation too.
