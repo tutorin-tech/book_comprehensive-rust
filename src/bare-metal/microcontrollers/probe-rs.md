@@ -11,7 +11,7 @@ OpenOCD but better integrated.
 Time Transfers) output and connect GDB. It's configured by an `Embed.toml` file
 in your project directory.
 
-<details>
+<details open='true'>
 
 - [CMSIS-DAP](https://arm-software.github.io/CMSIS_5/DAP/html/index.html) is an
   Arm standard protocol over USB for an in-circuit debugger to access the

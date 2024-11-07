@@ -68,7 +68,7 @@ examples in this training:
 
 [1]: https://doc.rust-lang.org/book/ch01-01-installation.html
 
-<details>
+<details open='true'>
 
 Try to encourage the class participants to install Cargo and use a local editor.
 It will make their life easier since they will have a normal development

@@ -11,7 +11,7 @@ C++. Visual Studio code works well for Rust in Chromium. To use it,
 
 <img src="vscode.png" style="border: 1px solid black;" alt="Example screenshot from VSCode">
 
-<details>
+<details open='true'>
 
 A demo of some of the code annotation and exploration features of rust-analyzer
 might be beneficial if the audience are naturally skeptical of IDEs.

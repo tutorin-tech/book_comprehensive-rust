@@ -39,7 +39,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The `Error` derive macro is provided by `thiserror`, and has lots of useful
   attributes to help define error types in a compact way.

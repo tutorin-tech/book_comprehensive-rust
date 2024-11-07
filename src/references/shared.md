@@ -36,7 +36,7 @@ fn x_axis(x: &i32) -> &(i32, i32) {
 }
 ```
 
-<details>
+<details open='true'>
 
 - References can never be null in Rust, so null checking is not necessary.
 

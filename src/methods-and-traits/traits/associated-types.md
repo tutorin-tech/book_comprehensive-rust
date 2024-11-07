@@ -26,7 +26,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Associated types are sometimes also called "output types". The key observation
   is that the implementer, not the caller, chooses this type.

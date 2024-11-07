@@ -14,7 +14,7 @@ _birthday_service/Android.bp_:
 {{#include ../birthday_service/Android.bp:birthday_server}}
 ```
 
-<details>
+<details open='true'>
 
 The process for taking a user-defined service implementation (in this case the
 `BirthdayService` type, which implements the `IBirthdayService`) and starting it

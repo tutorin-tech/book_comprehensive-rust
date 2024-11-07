@@ -20,7 +20,7 @@ rust_static_library("my_rust_lib") {
 You can also add `deps` on other Rust targets. Later we'll use this to depend
 upon third party code.
 
-<details>
+<details open='true'>
 
 You must specify _both_ the crate root, _and_ a full list of sources. The
 `crate_root` is the file given to the Rust compiler representing the root file

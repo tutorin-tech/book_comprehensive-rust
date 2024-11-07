@@ -31,7 +31,7 @@ fn main() {
 
 [`Result`]: https://doc.rust-lang.org/stable/std/result/enum.Result.html
 
-<details>
+<details open='true'>
 
 - `Result` has two variants: `Ok` which contains the success value, and `Err`
   which contains an error value of some kind.

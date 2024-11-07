@@ -4,7 +4,7 @@
 {{#include ../../../../third_party/cxx/book/snippets.rs:rust_bridge}}
 ```
 
-<details>
+<details open='true'>
 
 - Items declared in the `extern "Rust"` reference items that are in scope in the
   parent module.

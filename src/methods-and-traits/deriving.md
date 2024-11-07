@@ -24,7 +24,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Derivation is implemented with macros, and many crates provide useful derive
 macros to add useful functionality. For example, `serde` can derive

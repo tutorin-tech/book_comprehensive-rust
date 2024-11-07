@@ -20,7 +20,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `tinyvec` requires that the element type implement `Default` for
   initialisation.

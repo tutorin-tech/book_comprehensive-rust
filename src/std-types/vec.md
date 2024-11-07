@@ -36,7 +36,7 @@ methods on a `Vec`.
 [1]: https://doc.rust-lang.org/std/vec/struct.Vec.html
 [2]: https://doc.rust-lang.org/std/vec/struct.Vec.html#deref-methods-%5BT%5D
 
-<details>
+<details open='true'>
 
 - `Vec` is a type of collection, along with `String` and `HashMap`. The data it
   contains is stored on the heap. This means the amount of data doesn't need to

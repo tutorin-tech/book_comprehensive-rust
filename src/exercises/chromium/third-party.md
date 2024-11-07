@@ -8,7 +8,7 @@ handle untrustworthy input.
 ahead and do that now if you like. Or, you could create a new
 [`rust_executable` target][2] which uses `uwuify`).
 
-<details>
+<details open='true'>
 
 Students will need to download lots of transitive dependencies.
 

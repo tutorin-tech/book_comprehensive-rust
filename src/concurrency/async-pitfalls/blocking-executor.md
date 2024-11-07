@@ -28,7 +28,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Run the code and see that the sleeps happen consecutively rather than
   concurrently.

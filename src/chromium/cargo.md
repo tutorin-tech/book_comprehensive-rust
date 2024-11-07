@@ -26,7 +26,7 @@ Split into small groups and:
 - Discuss which tools, libraries, and groups of people need to be trusted when
   using `gn` and `ninja`, offline `cargo`, etc.
 
-<details>
+<details open='true'>
 
 Ask students to avoid peeking at the speaker notes before completing the
 exercise. Assuming folks taking the course are physically together, ask them to

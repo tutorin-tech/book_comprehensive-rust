@@ -24,7 +24,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - In the above example, the annotation on `Highlight` enforces that the data
   underlying the contained `&str` lives at least as long as any instance of

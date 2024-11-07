@@ -18,7 +18,7 @@ bindings for the language boundary to see if it appears simple enough.
 
 [1]: https://cxx.rs/bindings.html
 
-<details>
+<details open='true'>
 In addition, right now, Rust code in one component cannot depend on Rust
 code in another, due to linking details in our component build. That's another
 reason to restrict Rust to use in leaf nodes.

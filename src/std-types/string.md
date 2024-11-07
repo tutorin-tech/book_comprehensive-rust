@@ -28,7 +28,7 @@ all `str` methods on a `String`.
 [1]: https://doc.rust-lang.org/std/string/struct.String.html
 [2]: https://doc.rust-lang.org/std/string/struct.String.html#deref-methods-str
 
-<details>
+<details open='true'>
 
 - `String::new` returns a new empty string, use `String::with_capacity` when you
   know how much data you want to push to the string.

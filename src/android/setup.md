@@ -13,7 +13,7 @@ Please see the
 [Android Developer Codelab](https://source.android.com/docs/setup/start) for
 details.
 
-<details>
+<details open='true'>
 
 Key points:
 

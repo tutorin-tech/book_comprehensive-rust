@@ -71,7 +71,7 @@ async fn main() -> std::io::Result<()> {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The compiler doesn't help with cancellation-safety. You need to read API
   documentation and consider what state your `async fn` holds.

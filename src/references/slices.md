@@ -21,7 +21,7 @@ fn main() {
 
 - Slices borrow data from the sliced type.
 
-<details>
+<details open='true'>
 
 - We create a slice by borrowing `a` and specifying the starting and ending
   indexes in brackets.

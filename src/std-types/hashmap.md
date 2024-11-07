@@ -39,7 +39,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - `HashMap` is not defined in the prelude and needs to be brought into scope.
 - Try the following lines of code. The first line will see if a book is in the

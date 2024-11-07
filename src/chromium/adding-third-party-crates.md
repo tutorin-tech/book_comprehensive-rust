@@ -24,7 +24,7 @@ We'll discuss:
 
 [0]: https://crates.io
 
-<details>
+<details open='true'>
 All of the things in the table on this slide are generalizations, and
 counter-examples can be found. But in general it's important for students
 to understand that most Rust code depends on other Rust libraries, because

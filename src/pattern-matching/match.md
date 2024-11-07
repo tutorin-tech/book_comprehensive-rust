@@ -36,7 +36,7 @@ be used within the match arm.
 
 A match guard causes the arm to match only if the condition is true.
 
-<details>
+<details open='true'>
 
 Key Points:
 

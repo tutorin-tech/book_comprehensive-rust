@@ -21,7 +21,7 @@ and the variable lives through the entirety of the program execution. When a
 globally-scoped value does not have a reason to need object identity, `const` is
 generally preferred.
 
-<details>
+<details open='true'>
 
 - `static` is similar to mutable global variables in C++.
 - `static` provides object identity: an address in memory and state as required

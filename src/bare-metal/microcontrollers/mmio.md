@@ -7,7 +7,7 @@ on an LED on our micro:bit:
 {{#include examples/src/bin/mmio.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - GPIO 0 pin 21 is connected to the first column of the LED matrix, and pin 28
   to the first row.

@@ -1,9 +1,5 @@
 # Welcome to Comprehensive Rust 🦀
 
-[![Build workflow](https://img.shields.io/github/actions/workflow/status/google/comprehensive-rust/build.yml?style=flat-square)](https://github.com/google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain)
-[![GitHub contributors](https://img.shields.io/github/contributors/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/stargazers)
-
 This is a free Rust course developed by the Android team at Google. The course
 covers the full spectrum of Rust, from basic syntax to advanced topics like
 generics and error handling.
@@ -62,7 +58,7 @@ to better explain or contrast the Rust approach.
 If you know how to program in a dynamically-typed language such as Python or
 JavaScript, then you will be able to follow along just fine too.
 
-<details>
+<details open='true'>
 
 This is an example of a _speaker note_. We will use these to add additional
 information to the slides. This could be key points which the instructor should

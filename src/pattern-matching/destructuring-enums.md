@@ -36,7 +36,7 @@ Here we have used the arms to _destructure_ the `Result` value. In the first
 arm, `half` is bound to the value inside the `Ok` variant. In the second arm,
 `msg` is bound to the error message.
 
-<details>
+<details open='true'>
 
 - The `if`/`else` expression is returning an enum that is later unpacked with a
   `match`.

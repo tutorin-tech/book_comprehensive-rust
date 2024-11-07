@@ -52,7 +52,7 @@ impl PartialOrd for Citation {
 
 `Ord` is a total ordering, with `cmp` returning `Ordering`.
 
-<details>
+<details open='true'>
 
 `PartialEq` can be implemented between different types, but `Eq` cannot, because
 it is reflexive:

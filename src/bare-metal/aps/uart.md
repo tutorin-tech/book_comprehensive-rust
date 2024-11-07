@@ -6,7 +6,7 @@ The QEMU 'virt' machine has a [PL011][1] UART, so let's write a driver for that.
 {{#include examples/src/pl011_minimal.rs:Example}}
 ```
 
-<details>
+<details open='true'>
 
 - Note that `Uart::new` is unsafe while the other methods are safe. This is
   because as long as the caller of `Uart::new` guarantees that its safety

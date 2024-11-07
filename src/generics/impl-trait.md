@@ -28,7 +28,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 `impl Trait` allows you to work with types which you cannot name. The meaning of
 `impl Trait` is a bit different in the different positions.

@@ -21,7 +21,7 @@ use std::sync::{Arc, RwLock};
 type PlayerInventory = RwLock<Vec<Arc<RefCell<Item>>>>;
 ```
 
-<details>
+<details open='true'>
 
 C programmers will recognize this as similar to a `typedef`.
 

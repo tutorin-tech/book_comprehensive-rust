@@ -22,7 +22,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Possible solution:
 

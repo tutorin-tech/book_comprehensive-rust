@@ -23,7 +23,7 @@ Rust offers a new mix:
 
 It does this with an explicit ownership concept.
 
-<details>
+<details open='true'>
 
 This slide is intended to help students coming from other languages to put Rust
 in context.

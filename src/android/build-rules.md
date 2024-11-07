@@ -15,7 +15,7 @@ The Android build system (Soong) supports Rust via a number of modules:
 
 We will look at `rust_binary` and `rust_library` next.
 
-<details>
+<details open='true'>
 
 Additional items speaker may mention:
 

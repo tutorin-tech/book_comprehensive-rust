@@ -37,7 +37,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 The takeaway from this section is that these common conveniences exist, and how
 to use them. Why they are defined as macros, and what they expand to, is not

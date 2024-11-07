@@ -13,18 +13,39 @@ Very few Rust libraries directly expose a C/C++ API, so that means that nearly
 all such libraries will require a small amount of first-party glue code.
 
 ```bob
-"C++"                           Rust
-.- - - - - - - - - -.           .- - - - - - - - - - - - - - - - - - - - - - -.
-:                   :           :                                             :
-: Existing Chromium :           :  Chromium Rust              Existing Rust   :
-: "C++"             :           :  "wrapper"                  crate           :
-: +---------------+ :           : +----------------+          +-------------+ :
-: |               | :           : |                |          |             | :
-: |         o-----+-+-----------+-+->            o-+----------+-->          | :
-: |               | : Language  : |                | Crate    |             | :
-: +---------------+ : boundary  : +----------------+ API      +-------------+ :
-:                   :           :                                             :
-`- - - - - - - - - -'           `- - - - - - - - - - - - - - - - - - - - - - -'
+"C++"
+.- - - - - - - - - -.
+:                   :
+: Existing Chromium :
+: "C++"             :
+: +---------------+ :
+: |               | :
+: |         o-----+-+-----------.
+: |               | : Language  |
+: +---------------+ : boundary  |
+:                   :           |
+`- - - - - - - - - -'           |
+    .---------------------------'
+Rust|
+.- -+- - - - - - - - - - - - - - -.
+:   |                             :
+:   | Chromium Rust               :
+:   | "wrapper"                   :
+:   | +----------------+          :
+:   | |                |          :
+:   `-+->            o-+--------. :
+:     |                | Crate  | :
+:     +----------------+ API    | :
+:                               | :
+:   .---------------------------' :
+:   |  Existing Rust              :
+:   |  crate                      :
+:   | +-------------+             :
+:   | |             |             :
+:   `-+-->          |             :
+:     |             |             :
+:     +-------------+             :
+`- - - - - - - - - - - - - - - - -'
 ```
 
 > First-party Rust glue code for a particular third-party crate should normally

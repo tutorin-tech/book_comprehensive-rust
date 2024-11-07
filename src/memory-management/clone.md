@@ -19,7 +19,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - The idea of `Clone` is to make it easy to spot where heap allocations are
   occurring. Look for `.clone()` and a few others like `vec!` or `Box::new`.

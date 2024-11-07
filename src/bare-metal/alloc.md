@@ -7,7 +7,7 @@ To use `alloc` you must implement a
 {{#include alloc-example/src/main.rs:Alloc}}
 ```
 
-<details>
+<details open='true'>
 
 - `buddy_system_allocator` is a third-party crate implementing a basic buddy
   system allocator. Other crates are available, or you can write your own or

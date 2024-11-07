@@ -31,7 +31,7 @@ For infallible casts (e.g. `u32` to `u64`), prefer using `From` or `Into` over
 `TryFrom` and `TryInto` are available when you want to handle casts that fit
 differently from those that don't.
 
-<details>
+<details open='true'>
 
 Consider taking a break after this slide.
 

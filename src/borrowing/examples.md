@@ -28,7 +28,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - In both of these cases, modifying the collection by pushing new elements into
   it can potentially invalidate existing references to the collection's elements

@@ -30,7 +30,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 - Calling `send()` will block the current thread until there is space in the
   channel for the new message. The thread can be blocked indefinitely if there

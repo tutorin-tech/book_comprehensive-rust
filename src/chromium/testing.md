@@ -30,7 +30,7 @@ This results in the following options for testing Rust code in Chromium:
   public API (using `pub mod for_testing { ... }` if needed). This is the
   subject of the next few slides.
 
-<details>
+<details open='true'>
 
 Mention that native Rust tests of third-party crates should eventually be
 exercised by Chromium bots. (Such testing is needed rarely --- only after adding

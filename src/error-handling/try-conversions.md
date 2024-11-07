@@ -71,7 +71,7 @@ fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 The `?` operator must return a value compatible with the return type of the
 function. For `Result`, it means that the error types have to be compatible. A

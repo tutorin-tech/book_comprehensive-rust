@@ -35,7 +35,7 @@ async fn main() {
 }
 ```
 
-<details>
+<details open='true'>
 
 Copy this example into your prepared `src/main.rs` and run it from there.
 

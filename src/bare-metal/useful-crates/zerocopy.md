@@ -13,7 +13,7 @@ This is not suitable for MMIO (as it doesn't use volatile reads and writes), but
 can be useful for working with structures shared with hardware e.g. by DMA, or
 sent over some external interface.
 
-<details>
+<details open='true'>
 
 - `FromBytes` can be implemented for types for which any byte pattern is valid,
   and so can safely be converted from an untrusted sequence of bytes.

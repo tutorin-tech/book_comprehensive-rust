@@ -4,7 +4,7 @@
 {{#include ../../../../third_party/cxx/book/snippets.rs:cpp_exception}}
 ```
 
-<details>
+<details open='true'>
 
 - C++ functions declared to return a `Result` will catch any thrown exception on
   the C++ side and return it as an `Err` value to the calling Rust function.

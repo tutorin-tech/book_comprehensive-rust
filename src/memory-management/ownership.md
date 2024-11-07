@@ -27,7 +27,7 @@ owner at all times.
 At the end of the scope, the variable is _dropped_ and the data is freed. A
 destructor can run here to free up resources.
 
-<details>
+<details open='true'>
 
 Students familiar with garbage-collection implementations will know that a
 garbage collector starts with a set of "roots" to find all reachable memory.

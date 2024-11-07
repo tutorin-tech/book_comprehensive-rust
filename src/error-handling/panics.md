@@ -24,7 +24,7 @@ fn main() {
   returned.
 - Use non-panicking APIs (such as `Vec::get`) if crashing is not acceptable.
 
-<details>
+<details open='true'>
 
 By default, a panic will cause the stack to unwind. The unwinding can be caught:
 

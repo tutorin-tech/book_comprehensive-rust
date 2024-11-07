@@ -52,6 +52,7 @@ The course is built using a few tools:
 - [mdbook-i18n-helpers and i18n-report](https://github.com/google/mdbook-i18n-helpers)
 - [mdbook-exerciser](mdbook-exerciser/)
 - [mdbook-course](mdbook-course/)
+- [mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub)
 
 In addition,
 [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck) checks
@@ -75,6 +76,7 @@ cargo install --locked i18n-report
 cargo install --locked mdbook-linkcheck
 cargo install --locked --path mdbook-exerciser
 cargo install --locked --path mdbook-course
+cargo install --locked mdbook-epub
 ```
 
 Run
